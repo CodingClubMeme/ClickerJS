@@ -1,6 +1,8 @@
 #!/bin/sh
+
 # NPM Insall
 npm install
+
 # Start from master branch
 git checkout master
 
